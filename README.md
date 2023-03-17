@@ -1,6 +1,6 @@
 # DontStarveDemo
 
-My Don't Starve demo.
+(第一次用不太懂，脚本全放到Assets文件夹里了)
 ## First commit
 之前一直没上传成功。第一次commit的成果：
 1. 一张测试用的地图
