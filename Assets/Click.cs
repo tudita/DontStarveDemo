@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 public class Click : MonoBehaviour, IPointerDownHandler
 {
     private int ClickCount = 0;
-   public void OnPointerClick(PointerEventData eventData)
+    public void OnPointerClick(PointerEventData eventData)
     {
     	//你要触发的代码
     }
